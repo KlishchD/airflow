@@ -1,0 +1,24 @@
+[2022-03-03 19:15:46,514] {processor.py:163} INFO - Started process (PID=11) to work on /home/airflow/.local/lib/python3.7/site-packages/airflow/smart_sensor_dags/smart_sensor_group.py
+[2022-03-03 19:15:46,520] {processor.py:642} INFO - Processing file /home/airflow/.local/lib/python3.7/site-packages/airflow/smart_sensor_dags/smart_sensor_group.py for tasks to queue
+[2022-03-03 19:15:46,522] {logging_mixin.py:109} INFO - [2022-03-03 19:15:46,521] {dagbag.py:500} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.7/site-packages/airflow/smart_sensor_dags/smart_sensor_group.py
+[2022-03-03 19:15:46,713] {processor.py:654} INFO - DAG(s) dict_keys(['smart_sensor_group_shard_1', 'smart_sensor_group_shard_0']) retrieved from /home/airflow/.local/lib/python3.7/site-packages/airflow/smart_sensor_dags/smart_sensor_group.py
+[2022-03-03 19:15:46,741] {logging_mixin.py:109} INFO - [2022-03-03 19:15:46,741] {dag.py:2398} INFO - Sync 2 DAGs
+[2022-03-03 19:15:46,801] {logging_mixin.py:109} INFO - [2022-03-03 19:15:46,801] {dag.py:2937} INFO - Setting next_dagrun for smart_sensor_group_shard_0 to 2022-03-03T19:10:46.800369+00:00
+[2022-03-03 19:15:46,803] {logging_mixin.py:109} INFO - [2022-03-03 19:15:46,803] {dag.py:2937} INFO - Setting next_dagrun for smart_sensor_group_shard_1 to 2022-03-03T19:10:46.803300+00:00
+[2022-03-03 19:15:46,838] {processor.py:171} INFO - Processing /home/airflow/.local/lib/python3.7/site-packages/airflow/smart_sensor_dags/smart_sensor_group.py took 0.329 seconds
+[2022-03-03 19:16:16,922] {processor.py:163} INFO - Started process (PID=12) to work on /home/airflow/.local/lib/python3.7/site-packages/airflow/smart_sensor_dags/smart_sensor_group.py
+[2022-03-03 19:16:16,926] {processor.py:642} INFO - Processing file /home/airflow/.local/lib/python3.7/site-packages/airflow/smart_sensor_dags/smart_sensor_group.py for tasks to queue
+[2022-03-03 19:16:16,930] {logging_mixin.py:109} INFO - [2022-03-03 19:16:16,929] {dagbag.py:500} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.7/site-packages/airflow/smart_sensor_dags/smart_sensor_group.py
+[2022-03-03 19:16:17,094] {processor.py:654} INFO - DAG(s) dict_keys(['smart_sensor_group_shard_1', 'smart_sensor_group_shard_0']) retrieved from /home/airflow/.local/lib/python3.7/site-packages/airflow/smart_sensor_dags/smart_sensor_group.py
+[2022-03-03 19:16:17,127] {logging_mixin.py:109} INFO - [2022-03-03 19:16:17,127] {dag.py:2398} INFO - Sync 2 DAGs
+[2022-03-03 19:16:17,185] {logging_mixin.py:109} INFO - [2022-03-03 19:16:17,185] {dag.py:2937} INFO - Setting next_dagrun for smart_sensor_group_shard_0 to 2022-03-03T19:11:17.182932+00:00
+[2022-03-03 19:16:17,187] {logging_mixin.py:109} INFO - [2022-03-03 19:16:17,187] {dag.py:2937} INFO - Setting next_dagrun for smart_sensor_group_shard_1 to 2022-03-03T19:11:17.186920+00:00
+[2022-03-03 19:16:17,218] {processor.py:171} INFO - Processing /home/airflow/.local/lib/python3.7/site-packages/airflow/smart_sensor_dags/smart_sensor_group.py took 0.300 seconds
+[2022-03-03 19:16:47,314] {processor.py:163} INFO - Started process (PID=13) to work on /home/airflow/.local/lib/python3.7/site-packages/airflow/smart_sensor_dags/smart_sensor_group.py
+[2022-03-03 19:16:47,317] {processor.py:642} INFO - Processing file /home/airflow/.local/lib/python3.7/site-packages/airflow/smart_sensor_dags/smart_sensor_group.py for tasks to queue
+[2022-03-03 19:16:47,318] {logging_mixin.py:109} INFO - [2022-03-03 19:16:47,318] {dagbag.py:500} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.7/site-packages/airflow/smart_sensor_dags/smart_sensor_group.py
+[2022-03-03 19:16:47,376] {processor.py:654} INFO - DAG(s) dict_keys(['smart_sensor_group_shard_1', 'smart_sensor_group_shard_0']) retrieved from /home/airflow/.local/lib/python3.7/site-packages/airflow/smart_sensor_dags/smart_sensor_group.py
+[2022-03-03 19:16:47,392] {logging_mixin.py:109} INFO - [2022-03-03 19:16:47,391] {dag.py:2398} INFO - Sync 2 DAGs
+[2022-03-03 19:16:47,416] {logging_mixin.py:109} INFO - [2022-03-03 19:16:47,416] {dag.py:2937} INFO - Setting next_dagrun for smart_sensor_group_shard_0 to 2022-03-03T19:11:47.416122+00:00
+[2022-03-03 19:16:47,417] {logging_mixin.py:109} INFO - [2022-03-03 19:16:47,417] {dag.py:2937} INFO - Setting next_dagrun for smart_sensor_group_shard_1 to 2022-03-03T19:11:47.417778+00:00
+[2022-03-03 19:16:47,431] {processor.py:171} INFO - Processing /home/airflow/.local/lib/python3.7/site-packages/airflow/smart_sensor_dags/smart_sensor_group.py took 0.121 seconds
